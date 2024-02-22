@@ -13,9 +13,9 @@ As it can be seen, the data consists of various important features in making the
 ######   - Data Visualization
 
 ###### 2. **Train-Test Split:**
-######   - Split the dataset into train, validate and test. (4072076 train examples, 1018020 validation examples, 1272524 test examples)
+######   - Split the dataset into train and test.
 
-###### 3. **Model Training (after data pipelining) :**
+###### 3. **Model Training :**
 ######   - MultiLayer Perceptron
 ######   - Covolutional Neural Network
 ######   - Recurrent Neural Network
@@ -23,7 +23,7 @@ As it can be seen, the data consists of various important features in making the
 
 ###### 4. **Evaluation:**
 ######   - Assess model performance on the test set.
-######   - Analyze and interpret the results.
+######   - Analyze and compare the results
 
 ## LIBRARIES NEEDED
 * pandas
