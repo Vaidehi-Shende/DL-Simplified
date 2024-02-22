@@ -55,6 +55,8 @@ Hence, this project concludes the loan approval prediction system, using artific
 Github: https://github.com/Gaurav-8604
 ### Contributor:
 ###### Name: Vaidehi Shende
+###### linkedin: 
+https://www.linkedin.com/in/vaidehi-shende-34262a23b/
 ###### github:
-
+https://github.com/Vaidehi-Shende
 
