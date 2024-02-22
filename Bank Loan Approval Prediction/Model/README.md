@@ -6,13 +6,31 @@ The dataset for this project consists of labeled data. The target column is call
 
 As it can be seen, the data consists of various important features in making the decision for loan approval. This project is more of an introduction to building a neural network model for predictive modeling. We will be using Tensorflow and Keras via Python for achieving these tasks.
 
+### What I had done:
+###### 1. **Data Preprocessing:**
+######   - Load and explore the dataset.
+######   - Exploratory Data Analysis.
+######   - Data Visualization
+
+###### 2. **Train-Test Split:**
+######   - Split the dataset into train, validate and test. (4072076 train examples, 1018020 validation examples, 1272524 test examples)
+
+###### 3. **Model Training (after data pipelining) :**
+######   - MultiLayer Perceptron
+######   - Covolutional Neural Network
+######   - Recurrent Neural Network
+######   - Long Short Term Memory
+
+###### 4. **Evaluation:**
+######   - Assess model performance on the test set.
+######   - Analyze and interpret the results.
+
 ## LIBRARIES NEEDED
 * pandas
 * numpy
 * matplotlib
 * seaborn
 * tensorflow
-* sklearn
 
 ## VISUALIZATIONS
 Classification Performance
@@ -35,5 +53,8 @@ Hence, this project concludes the loan approval prediction system, using artific
 
 ## SOCIAL MEDIA
 Github: https://github.com/Gaurav-8604
+### Contributor:
+###### Name: Vaidehi Shende
+###### github:
 
 
