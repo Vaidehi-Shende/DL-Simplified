@@ -12,6 +12,7 @@ As it can be seen, the data consists of various important features in making the
 * matplotlib
 * seaborn
 * tensorflow
+* sklearn
 
 ## VISUALIZATIONS
 Classification Performance
